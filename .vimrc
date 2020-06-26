@@ -70,7 +70,7 @@ nnoremap <silent> <leader>gf :YcmCompleter FixIt<CR>
 " ------------------------------------------------------------------------------------
 colorscheme gruvbox
 set background=dark
-" set t_Co=256
+set t_Co=256
 let g:airline_theme='oceanicnext'
 " ------------------------------------------------------------------------------------
 let g:airline#extensions#tabline#enabled = 1
